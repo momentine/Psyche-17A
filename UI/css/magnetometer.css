@@ -1,0 +1,26 @@
+img {
+    position: absolute;
+    width: 762px;
+    height: 616px;
+    left: 303px;
+    top: 267px;
+}
+
+p {
+    position: absolute;
+    width: 482px;
+    height: 526px;
+    left: 1123px;
+    top: 412px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 35px;
+    /* or 219% */
+
+    letter-spacing: 0.005em;
+
+    color: #000000;
+}

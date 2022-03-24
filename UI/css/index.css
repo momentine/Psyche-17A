@@ -1,0 +1,276 @@
+.exhibit {
+    width: 1078px;
+    height: 145px;
+    position: absolute;
+    left: -467px;
+    top: 468px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 15px 6px rgba(0, 0, 0, 0.15);
+    transform: rotate(-90deg);
+}
+
+.exhibit .text {
+    position: absolute;
+    width: 228px;
+    height: 57px;
+    left: 582px;
+    top: 48px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 49px;
+
+    color: #000000;
+
+}
+
+.exhibit .divider {
+    position: absolute;
+    width: 96.5px;
+    height: 0px;
+    left: 495px;
+    top: 73px;
+
+    border: 1px solid #000000;
+    transform: rotate(-90deg);
+}
+
+.exhibit .logo {
+    width: 192px;
+    height: 99px;
+    position: absolute;
+    left: 360px;
+    top: 71px;
+
+    transform: rotate(90deg);
+}
+
+.science {
+    position: absolute;
+    width: 544px;
+    height: 460px;
+    left: 206px;
+    top: 52px;
+
+    background: linear-gradient(178.81deg, #40FF00 -0.99%, #17D613 98.98%);
+    border-radius: 30px;
+}
+
+.navigation {
+    position: absolute;
+    width: 543px;
+    height: 460px;
+    left: 792px;
+    top: 52px;
+
+    background: linear-gradient(180deg, #00FFFF 0%, #00D9EA 80.13%, #00B6D6 100%);
+    border-radius: 30px;
+}
+
+.video {
+    position: absolute;
+    width: 515px;
+    height: 460px;
+    left: 1378px;
+    top: 52px;
+
+    background: linear-gradient(180deg, #D99AFF 75.97%, #C05AFF 100%);
+    border-radius: 30px;
+}
+
+.communication {
+    position: absolute;
+    width: 544px;
+    height: 469px;
+    left: 206px;
+    top: 558px;
+
+    background: linear-gradient(180deg, #FFCC00 0%, #FFA500 100%);
+    border-radius: 30px;
+}
+
+.centralCore {
+    position: absolute;
+    width: 543px;
+    height: 469px;
+    left: 792px;
+    top: 558px;
+
+    background: linear-gradient(180deg, #EF5965 0%, #E64B54 92.63%, #D32F33 100%);
+    border-radius: 30px;
+}
+
+.model {
+    position: absolute;
+    width: 515px;
+    height: 469px;
+    left: 1378px;
+    top: 558px;
+
+
+    background: linear-gradient(180deg, #D99AFF 40.1%, #CF80FF 77.08%, #C05AFF 100%);
+    border-radius: 30px;
+}
+
+.science .bg {
+    position: absolute;
+    left: 24px;
+    top: 54px;
+}
+
+.communication .bg {
+    position: absolute;
+    left: 24px;
+    top: 28px;
+}
+
+.navigation .bg {
+    position: absolute;
+    left: 16px;
+    top: 41px;
+}
+
+.centralCore .bg {
+    position: absolute;
+    left: 36px;
+    top: 25px;
+}
+
+.video .bg {
+    position: absolute;
+    left: 40px;
+    top: 50px;
+}
+
+.model .bg {
+    position: absolute;
+    left: 15px;
+    top: 20px;
+}
+
+.science .hd {
+    position: absolute;
+    width: 218px;
+    height: 105px;
+    left: 137px;
+    top: 136px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 69px;
+    line-height: 81px;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+.txt {
+    position: absolute;
+    width: 332px;
+    height: 130px;
+    left: 104px;
+    top: 236px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 25px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.navigation .hd {
+    position: absolute;
+    width: 218px;
+    height: 105px;
+    left: 96px;
+    top: 136px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 69px;
+    line-height: 81px;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+.communication .hd {
+    position: absolute;
+    width: 218px;
+    height: 105px;
+    left: 15px;
+    top: 136px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 69px;
+    line-height: 81px;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+.centralCore .hd {
+    position: absolute;
+    width: 416px;
+    height: 105px;
+    left: 65px;
+    top: 136px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 69px;
+    line-height: 81px;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+.video .hd {
+    position: absolute;
+    width: 218px;
+    height: 105px;
+    left: 150px;
+    top: 136px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 69px;
+    line-height: 81px;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+.model .hd {
+    position: absolute;
+    width: 402px;
+    height: 105px;
+    left: 65px;
+    top: 136px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 69px;
+    line-height: 81px;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}

@@ -1,0 +1,94 @@
+.back .svg {
+    position: absolute;
+    left: 80px;
+    top: 980px;
+}
+
+.back .text {
+    position: absolute;
+    width: 186px;
+    height: 57px;
+    left: 50px;
+    top: 8px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+}
+
+.buttonMag {
+    position: absolute;
+    width: 295px;
+    height: 68px;
+    left: 350px;
+    top: 965px;
+
+    background: linear-gradient(178.81deg, #40FF00 -0.99%, #17D613 98.98%);
+    border-radius: 25px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 68px;
+    text-align: center;
+}
+
+.buttonGam {
+    position: absolute;
+    width: 295px;
+    height: 68px;
+    left: 660px;
+    top: 965px;
+
+    background: linear-gradient(178.81deg, #40FF00 -0.99%, #17D613 98.98%);
+    border-radius: 25px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.buttonLow {
+    position: absolute;
+    width: 295px;
+    height: 68px;
+    left: 970px;
+    top: 965px;
+
+    background: linear-gradient(178.81deg, #40FF00 -0.99%, #17D613 98.98%);
+    border-radius: 25px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 68px;
+    text-align: center;
+}
+
+.buttonMul {
+    position: absolute;
+    width: 295px;
+    height: 68px;
+    left: 1280px;
+    top: 965px;
+
+    background: linear-gradient(178.81deg, #40FF00 -0.99%, #17D613 98.98%);
+    border-radius: 25px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 68px;
+    text-align: center;
+}
