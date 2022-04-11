@@ -1,9 +1,14 @@
+button {
+    border: none;
+    cursor: pointer;
+}
+
 .exhibit {
-    width: 1078px;
-    height: 145px;
+    width: 1440px;
+    height: 209px;
     position: absolute;
-    left: -467px;
-    top: 468px;
+    left: -620px;
+    top: 615px;
     background: #FFFFFF;
     box-shadow: 0px 2px 15px 6px rgba(0, 0, 0, 0.15);
     transform: rotate(-90deg);
@@ -13,8 +18,8 @@
     position: absolute;
     width: 228px;
     height: 57px;
-    left: 582px;
-    top: 48px;
+    left: 780px;
+    top: 75px;
 
     font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
@@ -30,8 +35,8 @@
     position: absolute;
     width: 96.5px;
     height: 0px;
-    left: 495px;
-    top: 73px;
+    left: 670px;
+    top: 100px;
 
     border: 1px solid #000000;
     transform: rotate(-90deg);
@@ -41,236 +46,168 @@
     width: 192px;
     height: 99px;
     position: absolute;
-    left: 360px;
-    top: 71px;
+    left: 500px;
+    top: 80px;
 
     transform: rotate(90deg);
 }
 
 .science {
     position: absolute;
-    width: 544px;
-    height: 460px;
-    left: 206px;
-    top: 52px;
+    width: 725px;
+    height: 613px;
+    left: 260px;
+    top: 89px;
 
+    /* green */
     background: linear-gradient(178.81deg, #40FF00 -0.99%, #17D613 98.98%);
     border-radius: 30px;
 }
 
 .navigation {
     position: absolute;
-    width: 543px;
-    height: 460px;
-    left: 792px;
-    top: 52px;
+    width: 724px;
+    height: 613px;
+    left: 1025px;
+    top: 89px;
 
-    background: linear-gradient(180deg, #00FFFF 0%, #00D9EA 80.13%, #00B6D6 100%);
+    background: linear-gradient(180deg, #00FFFF 0%, #00D9EA 42.63%, #00B6D6 100%);
     border-radius: 30px;
 }
 
 .video {
     position: absolute;
-    width: 515px;
-    height: 460px;
-    left: 1378px;
-    top: 52px;
+    width: 724px;
+    height: 613px;
+    left: 1789px;
+    top: 89px;
 
-    background: linear-gradient(180deg, #D99AFF 75.97%, #C05AFF 100%);
+    /* purple */
+    background: linear-gradient(180deg, #D99AFF 0%, #CF80FF 24.48%, #C05AFF 100%);
     border-radius: 30px;
 }
 
 .communication {
     position: absolute;
-    width: 544px;
-    height: 469px;
-    left: 206px;
-    top: 558px;
+    width: 725px;
+    height: 613px;
+    left: 260px;
+    top: 738px;
 
-    background: linear-gradient(180deg, #FFCC00 0%, #FFA500 100%);
+    background: linear-gradient(180deg, #FFC801 0%, #FFA601 39.51%);
     border-radius: 30px;
 }
 
-.centralCore {
+.spacecraft {
     position: absolute;
-    width: 543px;
-    height: 469px;
-    left: 792px;
-    top: 558px;
+    width: 724px;
+    height: 613px;
+    left: 1025px;
+    top: 738px;
 
-    background: linear-gradient(180deg, #EF5965 0%, #E64B54 92.63%, #D32F33 100%);
+    background: linear-gradient(180deg, #EF5965 0%, #E64B54 47.32%, #D32F33 100%);
     border-radius: 30px;
 }
 
 .model {
     position: absolute;
-    width: 515px;
-    height: 469px;
-    left: 1378px;
-    top: 558px;
+    width: 724px;
+    height: 613px;
+    left: 1789px;
+    top: 738px;
 
-
-    background: linear-gradient(180deg, #D99AFF 40.1%, #CF80FF 77.08%, #C05AFF 100%);
+    /* purple */
+    background: linear-gradient(180deg, #D99AFF 0%, #CF80FF 24.48%, #C05AFF 100%);
     border-radius: 30px;
 }
 
 .science .bg {
     position: absolute;
-    left: 24px;
-    top: 54px;
+    left: 55px;
+    top: 94px;
 }
 
 .communication .bg {
     position: absolute;
-    left: 24px;
-    top: 28px;
+    left: 43px;
+    top: 70px;
 }
 
 .navigation .bg {
     position: absolute;
-    left: 16px;
-    top: 41px;
+    left: 23px;
+    top: 81px;
 }
 
-.centralCore .bg {
+.spacecraft .bg {
     position: absolute;
-    left: 36px;
-    top: 25px;
+    left: 48px;
+    top: 34px;
 }
 
 .video .bg {
     position: absolute;
-    left: 40px;
-    top: 50px;
+    left: 32px;
+    top: 81px;
 }
 
 .model .bg {
     position: absolute;
-    left: 15px;
-    top: 20px;
+    left: 35px;
+    top: 52px;
+}
+
+.hd {
+    position: absolute;
+    width: 500px;
+    height: 140px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 69px;
+    line-height: 81px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    text-shadow: 1px 5px 3px rgba(0, 0, 0, 0.18);
 }
 
 .science .hd {
     position: absolute;
-    width: 218px;
-    height: 105px;
-    left: 137px;
-    top: 136px;
-
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 69px;
-    line-height: 81px;
-    align-items: center;
-    text-align: center;
-
-    color: #000000;
-}
-
-.txt {
-    position: absolute;
-    width: 332px;
-    height: 130px;
-    left: 104px;
-    top: 236px;
-
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 21px;
-    line-height: 25px;
-    text-align: center;
-
-    color: #000000;
-}
-
-.navigation .hd {
-    position: absolute;
-    width: 218px;
-    height: 105px;
-    left: 96px;
-    top: 136px;
-
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 69px;
-    line-height: 81px;
-    align-items: center;
-    text-align: center;
-
-    color: #000000;
+    left: 220px;
+    top: 256px;
 }
 
 .communication .hd {
     position: absolute;
-    width: 218px;
-    height: 105px;
-    left: 15px;
-    top: 136px;
-
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 69px;
-    line-height: 81px;
-    align-items: center;
-    text-align: center;
-
-    color: #000000;
+    left: 110px;
+    top: 244px;
 }
 
-.centralCore .hd {
+.navigation .hd {
     position: absolute;
-    width: 416px;
-    height: 105px;
-    left: 65px;
-    top: 136px;
+    left: 197px;
+    top: 256px;
+}
 
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 69px;
-    line-height: 81px;
-    align-items: center;
-    text-align: center;
-
-    color: #000000;
+.spacecraft .hd {
+    position: absolute;
+    left: 180px;
+    top: 240px;
 }
 
 .video .hd {
     position: absolute;
-    width: 218px;
-    height: 105px;
-    left: 150px;
-    top: 136px;
-
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 69px;
-    line-height: 81px;
-    align-items: center;
-    text-align: center;
-
-    color: #000000;
+    left: 270px;
+    top: 258px;
 }
 
 .model .hd {
     position: absolute;
-    width: 402px;
-    height: 105px;
-    left: 65px;
-    top: 136px;
-
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 69px;
-    line-height: 81px;
-    align-items: center;
-    text-align: center;
-
-    color: #000000;
+    left: 190px;
+    top: 243px;
 }

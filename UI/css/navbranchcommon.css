@@ -1,111 +1,63 @@
 .back .svg {
     position: absolute;
-    left: 80px;
-    top: 980px;
+    width: 57px;
+    height: 56px;
+    left: 70px;
+    top: 1292px;
 }
 
 .back .text {
     position: absolute;
-    width: 186px;
-    height: 57px;
-    left: 50px;
-    top: 8px;
+    width: 300px;
+    height: 40px;
+    left: 80px;
+    top: 17px;
 
     font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 700;
     font-size: 20px;
-    line-height: 23px;
+    line-height: 27px;
 
     color: #000000;
 }
 
-.buttonCGTA {
+.buttonCGT,
+.buttonStar,
+.buttonSun,
+.buttonSP {
     position: absolute;
-    width: 295px;
-    height: 68px;
-    left: 330px;
-    top: 965px;
+    width: 379px;
+    height: 101px;
+    top: 1270px;
 
     background: linear-gradient(180deg, #00FFFF 0%, #00D9EA 80.13%, #00B6D6 100%);
     border-radius: 25px;
 
     font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
+    font-weight: 700;
+    font-size: 24px;
     line-height: 68px;
     text-align: center;
 }
 
-.buttonCGTB {
+.buttonCGT {
     position: absolute;
-    width: 295px;
-    height: 68px;
-    left: 640px;
-    top: 965px;
-
-    background: linear-gradient(180deg, #00FFFF 0%, #00D9EA 80.13%, #00B6D6 100%);
-    border-radius: 25px;
-
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 68px;
-    text-align: center;
+    left: 461px;
 }
 
 .buttonStar {
     position: absolute;
-    width: 295px;
-    height: 68px;
-    left: 950px;
-    top: 965px;
-
-    background: linear-gradient(180deg, #00FFFF 0%, #00D9EA 80.13%, #00B6D6 100%);
-    border-radius: 25px;
-
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 68px;
-    text-align: center;
+    left: 882px;
 }
 
 .buttonSun {
     position: absolute;
-    width: 295px;
-    height: 68px;
-    left: 1260px;
-    top: 965px;
-
-    background: linear-gradient(180deg, #00FFFF 0%, #00D9EA 80.13%, #00B6D6 100%);
-    border-radius: 25px;
-
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 68px;
-    text-align: center;
+    left: 1301px;
 }
 
 .buttonSP {
     position: absolute;
-    width: 295px;
-    height: 68px;
-    left: 1570px;
-    top: 965px;
-
-    background: linear-gradient(180deg, #00FFFF 0%, #00D9EA 80.13%, #00B6D6 100%);
-    border-radius: 25px;
-
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 68px;
-    text-align: center;
+    left: 1721px;
 }

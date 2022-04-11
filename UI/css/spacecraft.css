@@ -1,52 +1,54 @@
 .bg {
-    margin-top: 90px;
+    margin-top: 1px;
 }
 
-.Cold {
+.Cen {
     position: absolute;
     width: 799px;
     height: 525px;
     left: 461px;
     top: 267px;
 
-    background: #00A9B7;
+    background: #D44242;
     border-radius: 30px;
 }
 
-.Star {
+.Dim {
     position: absolute;
     width: 799px;
     height: 525px;
     left: 1301px;
     top: 267px;
 
-    background: #00A9B7;
+    background: #D44242;
     border-radius: 30px;
 }
 
-.Sun {
+.Fun {
     position: absolute;
     width: 799px;
     height: 525px;
     left: 461px;
     top: 825px;
 
-    background: #00A9B7;
+    background: #D44242;
     border-radius: 30px;
 }
 
-.SP {
+.Mat {
     position: absolute;
     width: 799px;
     height: 525px;
     left: 1301px;
     top: 825px;
 
-    background: #00A9B7;
+    background: #D44242;
     border-radius: 30px;
 }
 
 .hd {
+    width: 799px;
+    height: 525px;
     font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 700;
@@ -59,34 +61,26 @@
     color: #fff;
 }
 
-.Cold .hd {
+.Cen .hd {
     position: absolute;
-    width: 799px;
-    height: 522px;
-    left: 120px;
+    left: 195px;
     top: 0px;
 }
 
-.Star .hd {
+.Dim .hd {
     position: absolute;
-    width: 799px;
-    height: 522px;
-    left: 190px;
+    left: 220px;
     top: 0px;
 }
 
-.Sun .hd {
+.Fun .hd {
     position: absolute;
-    width: 799px;
-    height: 522px;
-    left: 200px;
+    left: 240px;
     top: 0px;
 }
 
-.SP .hd {
+.Mat .hd {
     position: absolute;
-    width: 799px;
-    height: 522px;
-    left: 225px;
+    left: 255px;
     top: 0px;
 }

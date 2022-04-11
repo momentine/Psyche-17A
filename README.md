@@ -1,2 +1,2 @@
 # Psyche-17A
-NASA Psyche Remote Interpretive System UI 
+ASU Capstone Project: NASA Psyche 17A: Virtual Exhibit

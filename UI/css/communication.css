@@ -1,67 +1,56 @@
+.bg {
+    margin-top: 5px;
+}
+
 .XBand {
     position: absolute;
-    width: 884px;
-    height: 523px;
-    left: 62px;
-    top: 355px;
+    width: 1001.8px;
+    height: 657.74px;
+    left: 253px;
+    top: 434px;
 
-    /* yellow */
-
-    background: linear-gradient(180deg, #FFCC00 0%, #FFA500 100%);
+    background: #F19F00;
     border-radius: 30px;
 }
 
 .DSOC {
     position: absolute;
-    width: 884px;
-    height: 523px;
-    left: 972px;
-    top: 355px;
+    width: 1001.8px;
+    height: 657.74px;
+    left: 1306.2px;
+    top: 434px;
 
-    /* yellow */
-
-    background: linear-gradient(180deg, #FFCC00 0%, #FFA500 100%);
+    background: #F19F00;
     border-radius: 30px;
+}
+
+.hd {
+    position: absolute;
+    width: 800px;
+    height: 658px;
+    left: 60px;
+    top: 0px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 70px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #fff;
 }
 
 .XBand .hd {
     position: absolute;
-    width: 804px;
-    height: 523px;
-    left: 60px;
+    left: 110px;
     top: 0px;
-
-    /* H2 */
-
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 60px;
-    line-height: 70px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-
-    color: #000000;
 }
 
 .DSOC .hd {
     position: absolute;
-    width: 675px;
-    height: 523px;
-    left: 200px;
+    left: 255px;
     top: 0px;
-
-    /* H2 */
-
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 60px;
-    line-height: 70px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-
-    color: #000000;
 }

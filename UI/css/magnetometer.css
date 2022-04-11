@@ -1,25 +1,27 @@
 img {
     position: absolute;
-    width: 762px;
-    height: 616px;
-    left: 303px;
-    top: 267px;
+    width: 1009px;
+    height: 815px;
+    left: 461px;
+    top: 299px;
 }
 
 p {
     position: absolute;
-    width: 482px;
-    height: 526px;
-    left: 1123px;
-    top: 412px;
+    width: 591px;
+    height: 815px;
+    left: 1509px;
+    top: 299px;
 
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
-    line-height: 35px;
-    /* or 219% */
+    font-size: 20px;
+    line-height: 39px;
 
+    /* or 195% */
+    display: flex;
+    align-items: center;
     letter-spacing: 0.005em;
 
     color: #000000;

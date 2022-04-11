@@ -22,30 +22,42 @@
     color: #000000;
 }
 
-.buttonXBand,
-.buttonDSOC {
+.buttonCC,
+.buttonDim,
+.buttonFun,
+.buttonMat {
     position: absolute;
     width: 379px;
     height: 101px;
     top: 1270px;
 
-    background: linear-gradient(180deg, #FFCC00 0%, #FFA500 100%);
+    background: linear-gradient(180deg, #FF818B 0%, #E64B54 80.73%, #DD3F46 100%);
     border-radius: 25px;
 
     font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 24px;
     line-height: 68px;
     text-align: center;
 }
 
-.buttonXBand {
+.buttonCC {
     position: absolute;
     left: 461px;
 }
 
-.buttonDSOC {
+.buttonDim {
     position: absolute;
     left: 882px;
+}
+
+.buttonFun {
+    position: absolute;
+    left: 1301px;
+}
+
+.buttonMat {
+    position: absolute;
+    left: 1721px;
 }

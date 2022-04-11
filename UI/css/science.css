@@ -1,9 +1,13 @@
+.bg {
+    margin-top: 169px;
+}
+
 .magn {
     position: absolute;
-    width: 584px;
-    height: 345px;
-    left: 364px;
-    top: 260px;
+    width: 799px;
+    height: 524.59px;
+    left: 41px;
+    top: 267px;
     border-radius: 30px;
 }
 
@@ -16,19 +20,31 @@
 
 .gamma {
     position: absolute;
-    width: 584px;
-    height: 345px;
-    left: 973px;
-    top: 260px;
+    width: 799px;
+    height: 524.59px;
+    left: 881px;
+    top: 267px;
+    border-radius: 30px;
+}
+
+.neu {
+    position: absolute;
+    width: 799px;
+    height: 524.59px;
+    left: 1720px;
+    top: 267px;
+
+    background: rgba(2, 107, 0, 0.9);
     border-radius: 30px;
 }
 
 .low {
     position: absolute;
-    width: 584px;
-    height: 345px;
-    left: 364px;
-    top: 651px;
+    width: 799px;
+    height: 525px;
+    left: 18.08%;
+    right: 50.78%;
+    top: 825px;
 
     background: rgba(2, 107, 0, 0.9);
     border-radius: 30px;
@@ -36,10 +52,10 @@
 
 .mul {
     position: absolute;
-    width: 584px;
-    height: 345px;
-    left: 973px;
-    top: 651px;
+    width: 799px;
+    height: 525px;
+    left: 1301px;
+    top: 825px;
 
     background: rgba(2, 107, 0, 0.9);
     border-radius: 30px;
@@ -62,30 +78,38 @@
     position: absolute;
     width: 584px;
     height: 77px;
-    left: 90px;
-    top: 130px;
+    left: 175px;
+    top: 225px;
 }
 
 .gamma .hd {
     position: absolute;
-    width: 284px;
+    width: 400px;
     height: 77px;
-    left: 95px;
-    top: 130px;
+    left: 200px;
+    top: 225px;
+}
+
+.neu .hd {
+    position: absolute;
+    width: 700px;
+    height: 77px;
+    left: 80px;
+    top: 225px;
 }
 
 .low .hd {
     position: absolute;
-    width: 284px;
+    width: 600px;
     height: 77px;
-    left: 150px;
-    top: 140px;
+    left: 140px;
+    top: 225px;
 }
 
 .mul .hd {
     position: absolute;
-    width: 584px;
+    width: 700px;
     height: 77px;
-    left: 0px;
-    top: 140px;
+    left: 80px;
+    top: 225px;
 }
