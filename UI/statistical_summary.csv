@@ -1,24 +1,24 @@
 Button Name,,,Clicks
-Science(Section),,,4
-Magnetometer,,,4
-Gamma Ray,,,1
-Neutron Spectrometer,,,1
-Low Gain Antenna,,,1
-Multispectral,,,2
-Navigation(Section),,,2
-Cold Gas Thrusters,,,2
-Star Trackers,,,2
-Sun Sensors,,,2
-SP Thruster,,,2
-Video(Section),,,1
-Communication(Section),,,2
-X-band,,,2
-DSOC,,,1
-Spacecraft(Section),,,2
-Central Core,,,1
-Dimensions,,,1
-Fun Facts,,,1
-Materials,,,1
-3D Model(Section),,,1
-Astroid Model,,,1
-Spacecraft Model,,,1
+Science(Section),,,18
+Magnetometer,,,17
+Gamma Ray,,,10
+Neutron Spectrometer,,,6
+Low Gain Antenna,,,5
+Multispectral,,,7
+Navigation(Section),,,19
+Cold Gas Thrusters,,,11
+Star Trackers,,,8
+Sun Sensors,,,8
+SP Thruster,,,8
+Video(Section),,,12
+Communication(Section),,,7
+X-band,,,4
+DSOC,,,2
+Spacecraft(Section),,,5
+Central Core,,,4
+Dimensions,,,2
+Fun Facts,,,2
+Materials,,,2
+3D Model(Section),,,5
+Astroid Model,,,7
+Spacecraft Model,,,4

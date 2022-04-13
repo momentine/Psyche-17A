@@ -22,7 +22,7 @@ async function buttonLog(id, value, buttonPressed) {
     });
 
 
-    url = 'http://WIZnetD9E9F9.sese.asu.edu/' + buttonPressed;
+    url = 'http://192.168.0.32:8224/' + buttonPressed;
     console.log(url);
     fetch(url, { method: 'POST', mode: 'no-cors' })
         .then(data => console.log(data));

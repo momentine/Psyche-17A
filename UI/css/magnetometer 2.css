@@ -1,19 +1,18 @@
 img {
     position: absolute;
-    width: 698px;
-    height: 800px;
-    left: 660px;
-    top: 314px;
+    width: 1009px;
+    height: 815px;
+    left: 461px;
+    top: 299px;
 }
 
 p {
     position: absolute;
-    width: 580px;
-    height: 813px;
-    left: 1421px;
-    top: 314px;
+    width: 591px;
+    height: 815px;
+    left: 1509px;
+    top: 299px;
 
-    /* P */
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;

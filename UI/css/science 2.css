@@ -1,0 +1,115 @@
+.bg {
+    margin-top: 169px;
+}
+
+.magn {
+    position: absolute;
+    width: 799px;
+    height: 524.59px;
+    left: 41px;
+    top: 267px;
+    border-radius: 30px;
+}
+
+.magn img {
+    position: absolute;
+    height: 95%;
+    left: 13px;
+    top: 10px;
+}
+
+.gamma {
+    position: absolute;
+    width: 799px;
+    height: 524.59px;
+    left: 881px;
+    top: 267px;
+    border-radius: 30px;
+}
+
+.neu {
+    position: absolute;
+    width: 799px;
+    height: 524.59px;
+    left: 1720px;
+    top: 267px;
+
+    background: rgba(2, 107, 0, 0.9);
+    border-radius: 30px;
+}
+
+.low {
+    position: absolute;
+    width: 799px;
+    height: 525px;
+    left: 18.08%;
+    right: 50.78%;
+    top: 825px;
+
+    background: rgba(2, 107, 0, 0.9);
+    border-radius: 30px;
+}
+
+.mul {
+    position: absolute;
+    width: 799px;
+    height: 525px;
+    left: 1301px;
+    top: 825px;
+
+    background: rgba(2, 107, 0, 0.9);
+    border-radius: 30px;
+}
+
+.hd {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 70px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.magn .hd {
+    position: absolute;
+    width: 584px;
+    height: 77px;
+    left: 175px;
+    top: 225px;
+}
+
+.gamma .hd {
+    position: absolute;
+    width: 400px;
+    height: 77px;
+    left: 200px;
+    top: 225px;
+}
+
+.neu .hd {
+    position: absolute;
+    width: 700px;
+    height: 77px;
+    left: 80px;
+    top: 225px;
+}
+
+.low .hd {
+    position: absolute;
+    width: 600px;
+    height: 77px;
+    left: 140px;
+    top: 225px;
+}
+
+.mul .hd {
+    position: absolute;
+    width: 700px;
+    height: 77px;
+    left: 80px;
+    top: 225px;
+}

@@ -1,0 +1,48 @@
+.img {
+    position: absolute;
+    width: 1024px;
+    height: 682px;
+    left: 463px;
+    top: 340px;
+}
+
+.text1 {
+    position: absolute;
+    width: 571px;
+    height: 629px;
+    left: 1516px;
+    top: 340px;
+
+    /* P */
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 39px;
+    /* or 195% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.005em;
+
+    color: #000000;
+}
+
+.text2 {
+    position: absolute;
+    width: 430px;
+    height: 76px;
+    left: 470px;
+    top: 1051px;
+
+    /* caption */
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}

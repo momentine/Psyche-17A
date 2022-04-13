@@ -1,0 +1,75 @@
+.picture1 {
+    position: absolute;
+    width: 1007px;
+    height: 629px;
+    left: 463px;
+    top: 242px;
+}
+
+.picture2 {
+    position: absolute;
+    width: 589px;
+    height: 293px;
+    left: 881px;
+    top: 894px;
+}
+
+.text1 {
+    position: absolute;
+    width: 584px;
+    height: 629px;
+    left: 1516px;
+    top: 242px;
+
+    /* P */
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 39px;
+    /* or 195% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.005em;
+
+    color: #000000;
+}
+
+.text2 {
+    position: absolute;
+    width: 386px;
+    height: 76px;
+    left: 1509px;
+    top: 951px;
+
+    /* caption */
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.text3 {
+    position: absolute;
+    width: 379px;
+    height: 30px;
+    left: 1509px;
+    top: 892px;
+
+    /* caption */
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+
+}

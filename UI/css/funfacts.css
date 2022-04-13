@@ -1,0 +1,38 @@
+.img1 {
+    position: absolute;
+    width: 893px;
+    height: 925px;
+    left: 461px;
+    top: 262px;
+}
+
+.text1 {
+    position: absolute;
+    width: 379px;
+    height: 620px;
+    left: 1721px;
+    top: 395px;
+
+    /* P */
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 39px;
+
+    /* or 195% */
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.005em;
+
+    color: #000000;
+}
+
+.dot {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    background-color: #FF0000;
+    border-radius: 100px;
+    left: 1693px; 
+}
