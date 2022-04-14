@@ -6,15 +6,15 @@
     top: 314px;
 }
 
-.text {
+.text1 {
     position: absolute;
     width: 698px;
     height: 800px;
-    left: 1421px;
+    left: 1321px;
     top: 314px;
 
     /* P */
-    font-family: 'Roboto';
+    font-family: 'Arial';
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
